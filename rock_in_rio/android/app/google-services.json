@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214694071179",
+    "project_id": "rock-in-rio-700cc",
+    "storage_bucket": "rock-in-rio-700cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214694071179:android:2fad9eedc86ab9a6bebd8e",
+        "android_client_info": {
+          "package_name": "com.example.rock_in_rio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvO5X6WZVDXhz3tn4P4sQVkTv2W4wqoO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
