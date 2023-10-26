@@ -50,6 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
+<<<<<<< HEAD
     apiKey: 'AIzaSyDPJUEKCgoL9QjOGJvAqcLvGcJdIUuaJkk',
     appId: '1:576927950886:web:2c81a772645a1d800b9ee7',
     messagingSenderId: '576927950886',
@@ -65,5 +66,21 @@ class DefaultFirebaseOptions {
     messagingSenderId: '576927950886',
     projectId: 'rock-in-rio-9d703',
     storageBucket: 'rock-in-rio-9d703.appspot.com',
+=======
+    apiKey: 'AIzaSyBwzocYW0mgBOhoX2X5KXXKdISGNuTQg4A',
+    appId: '1:214694071179:web:f319befa4f2039aabebd8e',
+    messagingSenderId: '214694071179',
+    projectId: 'rock-in-rio-700cc',
+    authDomain: 'rock-in-rio-700cc.firebaseapp.com',
+    storageBucket: 'rock-in-rio-700cc.appspot.com',
+  );
+
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyDvO5X6WZVDXhz3tn4P4sQVkTv2W4wqoO8',
+    appId: '1:214694071179:android:2fad9eedc86ab9a6bebd8e',
+    messagingSenderId: '214694071179',
+    projectId: 'rock-in-rio-700cc',
+    storageBucket: 'rock-in-rio-700cc.appspot.com',
+>>>>>>> 0a24fdf73e260b531e5f189a85d3d14b5f5b83e2
   );
 }
